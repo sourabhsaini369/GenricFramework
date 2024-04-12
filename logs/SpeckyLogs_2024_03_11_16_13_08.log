@@ -1,0 +1,4 @@
+2024-03-11 16:13:08,381 [main] ERROR com.speckyfox.logmanager.LogsManager - Test Cases is not present in the excel.
+2024-03-11 16:13:08,387 [main] ERROR com.speckyfox.logmanager.LogsManager - Test Cases is not present in the excel.
+2024-03-11 16:13:08,586 [main] INFO com.speckyfox.logmanager.LogsManager - -----Video Started for TC04_Verify_Login_WEB-------
+2024-03-11 16:13:18,432 [main] INFO com.speckyfox.logmanager.LogsManager - ********************Test Script: TC04_Verify_Login_WEB is Started At: 2024-03-11 16:13:18.431********************

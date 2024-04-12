@@ -1,0 +1,9 @@
+2024-03-08 16:44:32,976 [main] INFO com.speckyfox.logmanager.LogsManager - ********************Test Script: Verify Login functionality is Started At: 2024-03-08 16:44:32.975********************
+2024-03-08 16:44:33,105 [main] INFO com.speckyfox.logmanager.LogsManager - The base url has been configured
+2024-03-08 16:44:33,839 [main] INFO com.speckyfox.logmanager.LogsManager - Status code 200 ahs been verified
+2024-03-08 16:44:33,896 [main] INFO com.speckyfox.logmanager.LogsManager - Login Successfull message has been verified
+2024-03-08 16:44:33,930 [main] ERROR com.speckyfox.logmanager.LogsManager - As the Method: Verify Login functionality is not present in testiny, So Not Able to update the Test Result in Testiny
+2024-03-08 16:44:33,933 [main] INFO com.speckyfox.logmanager.LogsManager - ***************Test Script: Verify Login functionality is passed***************
+
+
+2024-03-08 16:44:34,778 [main] ERROR com.speckyfox.logmanager.LogsManager - As the Methods: [Verify Login functionality, TC04_Verify_Login_WEB] are not present in testiny, So Not Able to update the Test Result in Testiny

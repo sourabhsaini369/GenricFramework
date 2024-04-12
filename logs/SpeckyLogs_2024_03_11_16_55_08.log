@@ -1,0 +1,27 @@
+2024-03-11 16:55:08,631 [main] ERROR com.speckyfox.logmanager.LogsManager - Test Cases is not present in the excel.
+2024-03-11 16:55:08,637 [main] ERROR com.speckyfox.logmanager.LogsManager - Test Cases is not present in the excel.
+2024-03-11 16:55:08,779 [main] INFO com.speckyfox.logmanager.LogsManager - -----Video Started for TC04_Verify_Login_WEB-------
+2024-03-11 16:55:15,925 [main] INFO com.speckyfox.logmanager.LogsManager - ********************Test Script: TC04_Verify_Login_WEB is Started At: 2024-03-11 16:55:15.924********************
+2024-03-11 16:55:31,296 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Email Input Box
+2024-03-11 16:55:31,313 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Email Input Box
+2024-03-11 16:55:31,547 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: Sourabh to the element: Email Input Box
+2024-03-11 16:55:31,574 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Password Input Box
+2024-03-11 16:55:31,586 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Password Input Box
+2024-03-11 16:55:31,727 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: saini to the element: Password Input Box
+2024-03-11 16:55:31,767 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Sign In Button
+2024-03-11 16:55:31,779 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Login Button
+2024-03-11 16:55:31,878 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Login Button
+2024-03-11 16:55:43,438 [main] ERROR com.speckyfox.logmanager.LogsManager - No Element Found Named: Hi Care Logo
+2024-03-11 16:55:43,439 [main] ERROR com.speckyfox.logmanager.LogsManager - Logged in Not Successfull
+2024-03-11 16:55:43,453 [main] ERROR com.speckyfox.logmanager.LogsManager - As the Method: TC04_Verify_Login_WEB is not present in testiny, So Not Able to update the Test Result in Testiny
+2024-03-11 16:55:43,455 [main] INFO com.speckyfox.logmanager.LogsManager - ***************Test Script: TC04_Verify_Login_WEB is passed***************
+
+
+2024-03-11 16:55:46,018 [main] ERROR com.speckyfox.logmanager.LogsManager - Test Cases is not present in the excel.
+2024-03-11 16:55:46,022 [main] ERROR com.speckyfox.logmanager.LogsManager - Test Cases is not present in the excel.
+2024-03-11 16:55:46,126 [main] INFO com.speckyfox.logmanager.LogsManager - ********************Test Script: TC04_Verify_Login_WEB is Started At: 2024-03-11 16:55:46.126********************
+2024-03-11 16:55:46,126 [main] ERROR com.speckyfox.logmanager.LogsManager - As the Method: TC04_Verify_Login_WEB is not present in testiny, So Not Able to update the Test Result in Testiny
+2024-03-11 16:55:46,128 [main] INFO com.speckyfox.logmanager.LogsManager - ***************Test Script: TC04_Verify_Login_WEB is skipped***************
+
+
+2024-03-11 16:55:46,713 [main] ERROR com.speckyfox.logmanager.LogsManager - As the Methods: [TC04_Verify_Login_WEB] are not present in testiny, So Not Able to update the Test Result in Testiny

@@ -1,0 +1,4 @@
+2024-03-11 16:11:37,959 [main] ERROR com.speckyfox.logmanager.LogsManager - Test Cases is not present in the excel.
+2024-03-11 16:11:37,965 [main] ERROR com.speckyfox.logmanager.LogsManager - Test Cases is not present in the excel.
+2024-03-11 16:12:08,258 [main] ERROR com.speckyfox.logmanager.LogsManager - As the Method: TC04_Verify_Login_WEB is not present in testiny, So Not Able to update the Test Result in Testiny
+2024-03-11 16:12:08,261 [main] ERROR com.speckyfox.logmanager.LogsManager - ***************Test Script: TC04_Verify_Login_WEB is failed***************

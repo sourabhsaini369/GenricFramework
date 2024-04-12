@@ -1,0 +1,23 @@
+{
+  "user_id": 579,
+    "audit_date": "2023-12-03",
+    "time_start": "10:00 PM",
+    "time_end": "10:45 PM",
+    "rtm_id": 0,
+    "audit_type": "customer",
+    "status": "Scheduled",
+    "category_id": 1,
+    "customer_id": "9091",
+    "name": "ash customer here",
+    "email": "ashtse@gmail.in",
+    "phone": "4545660222",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400079",
+    "latitude": "19.109078",
+    "longitude": "72.92558",
+    "location_size": "null",
+    "contract_end_date": "2024-12-15",
+    "address": "Lead RKA TMS, Lead RKA TMS, Lead RKA TMS, Test, 400079",
+    "contact_person": "BM BM"  
+  }

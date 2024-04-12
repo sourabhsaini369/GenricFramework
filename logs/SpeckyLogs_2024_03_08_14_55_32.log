@@ -1,0 +1,47 @@
+2024-03-08 14:55:32,316 [main] INFO com.speckyfox.logmanager.LogsManager - -----Video Started for TC01_Verify_User_Travelled_Location_WEB-------
+2024-03-08 14:55:42,202 [main] INFO com.speckyfox.logmanager.LogsManager - ********************Test Script: TC01_Verify_User_Travelled_Location_WEB is Started At: 2024-03-08 14:55:42.201********************
+2024-03-08 14:55:42,254 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Email Input Box
+2024-03-08 14:55:42,271 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Email Input Box
+2024-03-08 14:55:42,525 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: akshay@speckyfox.com to the element: Email Input Box
+2024-03-08 14:55:42,562 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Password Input Box
+2024-03-08 14:55:42,571 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Password Input Box
+2024-03-08 14:55:42,732 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: User#2017 to the element: Password Input Box
+2024-03-08 14:55:42,759 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Sign In Button
+2024-03-08 14:55:42,772 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Login Button
+2024-03-08 14:56:02,510 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Login Button
+2024-03-08 14:56:02,546 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Hi Care Logo
+2024-03-08 14:56:02,547 [main] INFO com.speckyfox.logmanager.LogsManager - Logged in Successfull
+2024-03-08 14:56:02,580 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Side Menu Link: Navigation
+2024-03-08 14:56:02,594 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Side Menu Link: Navigation
+2024-03-08 14:56:02,785 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Side Menu Link: Navigation
+2024-03-08 14:56:02,824 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Side Menu Link: Location
+2024-03-08 14:56:02,845 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Side Menu Link: Location
+2024-03-08 14:56:04,980 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Side Menu Link: Location
+2024-03-08 14:56:05,022 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to User List Select
+2024-03-08 14:56:05,261 [main] INFO com.speckyfox.logmanager.LogsManager - Selected 418 from the drop down.
+2024-03-08 14:56:05,301 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to View Location Button
+2024-03-08 14:56:05,337 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to View Location Button: 
+2024-03-08 14:56:07,031 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: View Location Button: 
+2024-03-08 14:56:07,105 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to User on Map
+2024-03-08 14:56:07,149 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Start Date
+2024-03-08 14:56:07,164 [main] INFO com.speckyfox.logmanager.LogsManager - Enter Start Date: 2023-12-01
+2024-03-08 14:56:07,211 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to End Date
+2024-03-08 14:56:07,237 [main] INFO com.speckyfox.logmanager.LogsManager - Enter End Date: 2023-12-31
+2024-03-08 14:56:07,263 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Get Result Button
+2024-03-08 14:56:07,277 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Result Button
+2024-03-08 14:56:07,730 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Result Button
+2024-03-08 14:56:09,146 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Get Image Show 1
+2024-03-08 14:56:09,147 [main] INFO com.speckyfox.logmanager.LogsManager - Image Link 1 is Showing in Map
+2024-03-08 14:56:09,183 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Get Image Show 1
+2024-03-08 14:56:09,399 [main] INFO com.speckyfox.logmanager.LogsManager - Mouse Over Performed on [[ChromeDriver: chrome on windows (215363c774bdf7e144d28f99fc898e53)] -> xpath: //img[@src="https://maps.gstatic.com/mapfiles/transparent.png"]/..]
+2024-03-08 14:56:09,463 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Get Address In Map
+2024-03-08 14:56:09,669 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Get Address In Map
+2024-03-08 14:56:09,694 [main] INFO com.speckyfox.logmanager.LogsManager - Address Verified on Map: A 42, Block A, Sector 62, Noida, Uttar Pradesh 201309, India
+2024-03-08 14:56:09,719 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Get Address In Table
+2024-03-08 14:56:09,755 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Get Address In Table
+2024-03-08 14:56:09,773 [main] INFO com.speckyfox.logmanager.LogsManager - Address Verified on Table: A 42, Block A, Sector 62, Noida, Uttar Pradesh 201309, India
+2024-03-08 14:56:09,778 [main] ERROR com.speckyfox.logmanager.LogsManager - As the Method: TC01_Verify_User_Travelled_Location_WEB is not present in testiny, So Not Able to update the Test Result in Testiny
+2024-03-08 14:56:09,778 [main] INFO com.speckyfox.logmanager.LogsManager - ***************Test Script: TC01_Verify_User_Travelled_Location_WEB is passed***************
+
+
+2024-03-08 14:56:12,310 [main] INFO com.speckyfox.logmanager.LogsManager - -----Video Started for TC02_Verify_Open_Ticket_Gets_ReAssigned_WEB-------

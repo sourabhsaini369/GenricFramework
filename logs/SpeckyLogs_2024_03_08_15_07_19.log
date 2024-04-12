@@ -1,0 +1,178 @@
+2024-03-08 15:07:19,839 [main] INFO com.speckyfox.logmanager.LogsManager - -----Video Started for FillStudentRegistrationForm_WEB-------
+2024-03-08 15:07:29,543 [main] INFO com.speckyfox.logmanager.LogsManager - ********************Test Script: FillStudentRegistrationForm_WEB is Started At: 2024-03-08 15:07:29.541********************
+2024-03-08 15:07:39,797 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Card: Elements
+2024-03-08 15:07:39,828 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Card: Forms
+2024-03-08 15:07:40,142 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Card: Forms
+2024-03-08 15:07:40,178 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Card: Elements
+2024-03-08 15:07:40,226 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Card: Forms
+2024-03-08 15:07:40,448 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Card: Forms
+2024-03-08 15:07:40,484 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: First Name
+2024-03-08 15:07:40,502 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: First Name and Value: Alden1
+2024-03-08 15:07:40,987 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: Alden1 to the element: Field: First Name and Value: Alden1
+2024-03-08 15:07:41,093 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Last Name
+2024-03-08 15:07:41,275 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Last Name and Value: Seletial
+2024-03-08 15:07:41,754 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: Seletial to the element: Field: Last Name and Value: Seletial
+2024-03-08 15:07:41,805 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Email ID
+2024-03-08 15:07:41,818 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Email and Value: test123@gmail.com
+2024-03-08 15:07:42,611 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: test123@gmail.com to the element: Field: Email and Value: test123@gmail.com
+2024-03-08 15:07:42,727 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Gender Radio and Value: Male
+2024-03-08 15:07:42,747 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Gender Radio : Male
+2024-03-08 15:07:42,872 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Gender Radio : Male
+2024-03-08 15:07:42,922 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Mobile Number
+2024-03-08 15:07:42,946 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Mobile and Value: 9645643213
+2024-03-08 15:07:43,156 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: 9645643213 to the element: Field: Mobile and Value: 9645643213
+2024-03-08 15:07:43,190 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: DOB
+2024-03-08 15:07:43,202 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to DOB Element 
+2024-03-08 15:07:43,440 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: DOB Element 
+2024-03-08 15:07:43,505 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Month of Calender 
+2024-03-08 15:07:43,590 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Year of Calender 
+2024-03-08 15:07:43,807 [main] INFO com.speckyfox.logmanager.LogsManager - Selected 2023 from the drop down.
+2024-03-08 15:07:43,808 [main] INFO com.speckyfox.logmanager.LogsManager - Select The Year: 2023
+2024-03-08 15:07:43,932 [main] INFO com.speckyfox.logmanager.LogsManager - Selected December from the drop down.
+2024-03-08 15:07:43,934 [main] INFO com.speckyfox.logmanager.LogsManager - Month is Selected: December
+2024-03-08 15:07:44,405 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: 
+2024-03-08 15:07:44,406 [main] INFO com.speckyfox.logmanager.LogsManager - 24 Date is Selected
+2024-03-08 15:07:44,546 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Subject Input
+2024-03-08 15:07:44,560 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Subject and Value: English
+2024-03-08 15:07:44,823 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: English to the element: Field: Subject and Value: English
+2024-03-08 15:07:44,856 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Subject Input Suggestion: English
+2024-03-08 15:07:44,863 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Subject Drop Down
+2024-03-08 15:07:44,961 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Subject Drop Down
+2024-03-08 15:07:44,996 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Hobies Checkbox
+2024-03-08 15:07:45,024 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Subject Drop Down
+2024-03-08 15:07:45,138 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Subject Drop Down
+2024-03-08 15:07:45,166 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Hobies Checkbox
+2024-03-08 15:07:45,178 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Subject Drop Down
+2024-03-08 15:07:45,282 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Subject Drop Down
+2024-03-08 15:07:45,314 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Picture Upload
+2024-03-08 15:07:45,332 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Picture and Value: C:\Users\ankur.huria\git\repository\Specky_Master_Automation_Framework3\src\test\resources\TestImages\SamplePhoto.png
+2024-03-08 15:07:45,419 [main] ERROR com.speckyfox.logmanager.LogsManager - Not Able to Enter Value: C:\Users\ankur.huria\git\repository\Specky_Master_Automation_Framework3\src\test\resources\TestImages\SamplePhoto.png
+2024-03-08 15:07:45,420 [main] ERROR com.speckyfox.logmanager.LogsManager - Getting exception: org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\ankur.huria\git\repository\Specky_Master_Automation_Framework3\src\test\resources\TestImages\SamplePhoto.png
+  (Session info: chrome=122.0.6261.95)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbe586286460c3cc309a110c5a596ab7, sendKeysToElement {id=f.ADC821DBDA4E0FB9A2E1BAE1EEE35432.d.DCD6864DF37421EEEECC5EFA509B29AE.e.42, value=[Ljava.lang.CharSequence;@34c6b52e}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.111 (9d4c1072da6..., userDataDir: C:\Users\SOURAB~1.SAI\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53214}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53214/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (dbe586286460c3cc309a110c5a596ab7)] -> xpath: //input[@id='uploadPicture']]
+Session ID: dbe586286460c3cc309a110c5a596ab7
+2024-03-08 15:07:45,446 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Current Address
+2024-03-08 15:07:45,464 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Current Address and Value: Street No. 8, Demo Street
+2024-03-08 15:07:45,664 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: Street No. 8, Demo Street to the element: Field: Current Address and Value: Street No. 8, Demo Street
+2024-03-08 15:07:45,747 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Submit Button
+2024-03-08 15:07:45,764 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Submit Button
+2024-03-08 15:07:45,894 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Submit Button
+2024-03-08 15:07:46,010 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Success Msg
+2024-03-08 15:07:46,010 [main] INFO com.speckyfox.logmanager.LogsManager - Success Msg Verified: Alden1 Seletial
+2024-03-08 15:07:46,126 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Student Name
+2024-03-08 15:07:46,177 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Gender
+2024-03-08 15:07:46,255 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Student Email
+2024-03-08 15:07:46,295 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Mobile
+2024-03-08 15:07:46,342 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Date of Birth
+2024-03-08 15:07:46,387 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Subjects
+2024-03-08 15:07:46,428 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Hobbies
+2024-03-08 15:07:46,467 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Picture
+2024-03-08 15:07:46,509 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Address
+2024-03-08 15:07:46,523 [main] INFO com.speckyfox.logmanager.LogsManager - Student Name Verified: Alden1 Seletial
+2024-03-08 15:07:46,524 [main] INFO com.speckyfox.logmanager.LogsManager - Student Gender Verified: Male
+2024-03-08 15:07:46,525 [main] INFO com.speckyfox.logmanager.LogsManager - Student Email Verified: test123@gmail.com
+2024-03-08 15:07:46,525 [main] INFO com.speckyfox.logmanager.LogsManager - Student Mobile Verified: 9645643213
+2024-03-08 15:07:46,526 [main] INFO com.speckyfox.logmanager.LogsManager - Student DOB Verified: 24 December,2023
+2024-03-08 15:07:46,527 [main] INFO com.speckyfox.logmanager.LogsManager - Student Subject Verified: English
+2024-03-08 15:07:46,528 [main] INFO com.speckyfox.logmanager.LogsManager - Student Hobies Verified: Sports
+2024-03-08 15:07:46,528 [main] INFO com.speckyfox.logmanager.LogsManager - Student Hobies Verified: Music
+2024-03-08 15:07:46,528 [main] INFO com.speckyfox.logmanager.LogsManager - Student Picture Verified: C:\Users\ankur.huria\git\repository\Specky_Master_Automation_Framework3\src\test\resources\TestImages\SamplePhoto.png
+2024-03-08 15:07:46,529 [main] INFO com.speckyfox.logmanager.LogsManager - Student Current Address Verified: Street No. 8, Demo Street
+2024-03-08 15:07:46,529 [main] INFO com.speckyfox.logmanager.LogsManager - Registartion Form Verified
+2024-03-08 15:07:47,616 [main] INFO com.speckyfox.logmanager.LogsManager - ***************Test Script: FillStudentRegistrationForm_WEB is passed***************
+
+
+2024-03-08 15:07:50,103 [main] INFO com.speckyfox.logmanager.LogsManager - -----Video Started for FillStudentRegistrationForm_WEB-------
+2024-03-08 15:07:56,351 [main] INFO com.speckyfox.logmanager.LogsManager - ********************Test Script: FillStudentRegistrationForm_WEB is Started At: 2024-03-08 15:07:56.351********************
+2024-03-08 15:08:17,199 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Card: Elements
+2024-03-08 15:08:17,219 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Card: Forms
+2024-03-08 15:08:17,459 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Card: Forms
+2024-03-08 15:08:17,494 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Card: Elements
+2024-03-08 15:08:17,529 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Card: Forms
+2024-03-08 15:08:17,668 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Card: Forms
+2024-03-08 15:08:17,769 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: First Name
+2024-03-08 15:08:17,790 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: First Name and Value: Kierra1
+2024-03-08 15:08:18,233 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: Kierra1 to the element: Field: First Name and Value: Kierra1
+2024-03-08 15:08:18,264 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Last Name
+2024-03-08 15:08:18,280 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Last Name and Value: Gentry New
+2024-03-08 15:08:19,234 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: Gentry New to the element: Field: Last Name and Value: Gentry New
+2024-03-08 15:08:19,330 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Email ID
+2024-03-08 15:08:19,601 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Email and Value: test345@gmail.com
+2024-03-08 15:08:20,110 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: test345@gmail.com to the element: Field: Email and Value: test345@gmail.com
+2024-03-08 15:08:20,144 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Gender Radio and Value: Female
+2024-03-08 15:08:20,161 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Gender Radio : Female
+2024-03-08 15:08:20,350 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Gender Radio : Female
+2024-03-08 15:08:20,435 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Mobile Number
+2024-03-08 15:08:20,458 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Mobile and Value: 8765434543
+2024-03-08 15:08:20,641 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: 8765434543 to the element: Field: Mobile and Value: 8765434543
+2024-03-08 15:08:20,671 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: DOB
+2024-03-08 15:08:20,688 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to DOB Element 
+2024-03-08 15:08:20,906 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: DOB Element 
+2024-03-08 15:08:20,936 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Month of Calender 
+2024-03-08 15:08:21,015 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Year of Calender 
+2024-03-08 15:08:21,202 [main] INFO com.speckyfox.logmanager.LogsManager - Selected 2023 from the drop down.
+2024-03-08 15:08:21,206 [main] INFO com.speckyfox.logmanager.LogsManager - Select The Year: 2023
+2024-03-08 15:08:21,340 [main] INFO com.speckyfox.logmanager.LogsManager - Selected October from the drop down.
+2024-03-08 15:08:21,341 [main] INFO com.speckyfox.logmanager.LogsManager - Month is Selected: October
+2024-03-08 15:08:21,663 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: 
+2024-03-08 15:08:21,663 [main] INFO com.speckyfox.logmanager.LogsManager - 17 Date is Selected
+2024-03-08 15:08:21,841 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Subject Input
+2024-03-08 15:08:21,851 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Subject and Value: Maths
+2024-03-08 15:08:22,025 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: Maths to the element: Field: Subject and Value: Maths
+2024-03-08 15:08:22,049 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Subject Input Suggestion: Maths
+2024-03-08 15:08:22,065 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Subject Drop Down
+2024-03-08 15:08:22,155 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Subject Drop Down
+2024-03-08 15:08:22,174 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Hobies Checkbox
+2024-03-08 15:08:22,182 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Subject Drop Down
+2024-03-08 15:08:22,278 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Subject Drop Down
+2024-03-08 15:08:22,312 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Hobies Checkbox
+2024-03-08 15:08:22,319 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Subject Drop Down
+2024-03-08 15:08:22,423 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Subject Drop Down
+2024-03-08 15:08:22,462 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Picture Upload
+2024-03-08 15:08:22,478 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Picture and Value: C:\Users\ankur.huria\git\repository\Specky_Master_Automation_Framework3\src\test\resources\TestImages\SamplePhoto.png
+2024-03-08 15:08:22,556 [main] ERROR com.speckyfox.logmanager.LogsManager - Not Able to Enter Value: C:\Users\ankur.huria\git\repository\Specky_Master_Automation_Framework3\src\test\resources\TestImages\SamplePhoto.png
+2024-03-08 15:08:22,559 [main] ERROR com.speckyfox.logmanager.LogsManager - Getting exception: org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : C:\Users\ankur.huria\git\repository\Specky_Master_Automation_Framework3\src\test\resources\TestImages\SamplePhoto.png
+  (Session info: chrome=122.0.6261.95)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5b154ea11b6823166f89916e3c2185e7, sendKeysToElement {id=f.74F66218A5F0204C2B10F0CCF454C5C3.d.C286A932BED7A3A93142296BDFA37DC6.e.45, value=[Ljava.lang.CharSequence;@533a27f8}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.111 (9d4c1072da6..., userDataDir: C:\Users\SOURAB~1.SAI\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53340}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53340/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (5b154ea11b6823166f89916e3c2185e7)] -> xpath: //input[@id='uploadPicture']]
+Session ID: 5b154ea11b6823166f89916e3c2185e7
+2024-03-08 15:08:22,596 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Current Address
+2024-03-08 15:08:22,610 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Field: Current Address and Value: Street No. 8, Demo Street
+2024-03-08 15:08:22,792 [main] INFO com.speckyfox.logmanager.LogsManager - Entered Value: Street No. 8, Demo Street to the element: Field: Current Address and Value: Street No. 8, Demo Street
+2024-03-08 15:08:22,843 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Submit Button
+2024-03-08 15:08:22,855 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Submit Button
+2024-03-08 15:08:22,991 [main] INFO com.speckyfox.logmanager.LogsManager - Clicked on Element: Submit Button
+2024-03-08 15:08:23,066 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form: Success Msg
+2024-03-08 15:08:23,066 [main] INFO com.speckyfox.logmanager.LogsManager - Success Msg Verified: Kierra1 Gentry New
+2024-03-08 15:08:23,129 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Student Name
+2024-03-08 15:08:23,227 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Gender
+2024-03-08 15:08:23,272 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Student Email
+2024-03-08 15:08:23,326 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Mobile
+2024-03-08 15:08:23,366 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Date of Birth
+2024-03-08 15:08:23,423 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Subjects
+2024-03-08 15:08:23,477 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Hobbies
+2024-03-08 15:08:23,536 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Picture
+2024-03-08 15:08:23,630 [main] INFO com.speckyfox.logmanager.LogsManager - Window Scrolled to Practice Form Verify Field: Address
+2024-03-08 15:08:23,646 [main] INFO com.speckyfox.logmanager.LogsManager - Student Name Verified: Kierra1 Gentry New
+2024-03-08 15:08:23,647 [main] INFO com.speckyfox.logmanager.LogsManager - Student Gender Verified: Female
+2024-03-08 15:08:23,647 [main] INFO com.speckyfox.logmanager.LogsManager - Student Email Verified: test345@gmail.com
+2024-03-08 15:08:23,647 [main] INFO com.speckyfox.logmanager.LogsManager - Student Mobile Verified: 8765434543
+2024-03-08 15:08:23,648 [main] INFO com.speckyfox.logmanager.LogsManager - Student DOB Verified: 17 October,2023
+2024-03-08 15:08:23,648 [main] INFO com.speckyfox.logmanager.LogsManager - Student Subject Verified: Maths
+2024-03-08 15:08:23,649 [main] INFO com.speckyfox.logmanager.LogsManager - Student Hobies Verified: Sports
+2024-03-08 15:08:23,649 [main] INFO com.speckyfox.logmanager.LogsManager - Student Hobies Verified: Reading
+2024-03-08 15:08:23,649 [main] INFO com.speckyfox.logmanager.LogsManager - Student Picture Verified: C:\Users\ankur.huria\git\repository\Specky_Master_Automation_Framework3\src\test\resources\TestImages\SamplePhoto.png
+2024-03-08 15:08:23,649 [main] INFO com.speckyfox.logmanager.LogsManager - Student Current Address Verified: Street No. 8, Demo Street
+2024-03-08 15:08:23,649 [main] INFO com.speckyfox.logmanager.LogsManager - Registartion Form Verified
+2024-03-08 15:08:24,605 [main] INFO com.speckyfox.logmanager.LogsManager - ***************Test Script: FillStudentRegistrationForm_WEB is passed***************
+
+
